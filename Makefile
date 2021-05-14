@@ -1,4 +1,4 @@
-APP_LIST=application-list aquarium blob examples falling-blocks hextris jamendo memory-match solar-system youtube
+APP_LIST=application-list aquarium blob examples falling-blocks hextris jamendo memory-match solar-system youtube webapp
 
 package:
 	mkdir -p package
