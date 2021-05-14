@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<widget xmlns="http://www.w3.org/ns/widgets" id="webapps-examples" version="1.0.0">
-  <name>Examples</name>
-  <icon src="icon.svg"/>
+<widget xmlns="http://www.w3.org/ns/widgets" id="webapp" version="1.0.0">
+  <name>WebApp</name>
+  <icon src="icon.png"/>
   <content src="index.html" type="text/html"/>
-  <description>Examples</description>
+  <description>WebApp</description>
+  <author>LGE-SVL</author>
+  <license>CLOSED</license>
   <feature name="urn:AGL:widget:required-permission">
     <param name="urn:AGL:permission::public:display" value="required" />
     <param name="urn:AGL:permission::public:audio" value="required" />"
